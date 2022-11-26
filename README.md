@@ -10,7 +10,7 @@ Install git command line tool
 
 Execute below commands in cmd
 
-git clone https://github.com/pranav1510/Calculator.git
+git clone https://github.com/pranav1510/Calculator-Reactjs.git
 
 cd Calculator
 
@@ -18,7 +18,3 @@ npm install
 
 npm start
 
-
-
-To run the code go to that location on command prompt and use command line "npm start",
-the code gets executed at localhost:3000 as default port number.
