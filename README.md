@@ -9,4 +9,3 @@ git clone https://github.com/pranav1510/Calculator-Reactjs.git
 cd Calculator-Reactjs
 npm install
 npm start
-
